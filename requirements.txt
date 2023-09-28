@@ -1,9 +1,10 @@
 tensorflow
 pandas
-numpy
+numpy~=1.26.0
 ultralytics
 cvzone
 streamlit_webrtc
-streamlit
-pillow
+streamlit~=1.27.0
+pillow~=9.5.0
+opencv-python~=4.8.0.76
 opencv-python
