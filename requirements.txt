@@ -6,5 +6,4 @@ cvzone
 streamlit_webrtc
 streamlit
 pillow
-opencv-python~=4.8.0.76
-opencv-python
+opencv-python==4.8.0.76
