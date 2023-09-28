@@ -3,6 +3,7 @@ pandas
 numpy
 ultralytics
 opencv-python
+opencv-contrib-python
 cvzone
 streamlit_webrtc
 streamlit
