@@ -8,3 +8,4 @@ streamlit_webrtc
 streamlit
 pillow
 opencv-python-headless
+cv2
