@@ -1,6 +1,6 @@
 tensorflow
 pandas
-numpy~=1.26.0
+numpy~=1.21.2
 ultralytics
 cvzone
 streamlit_webrtc
